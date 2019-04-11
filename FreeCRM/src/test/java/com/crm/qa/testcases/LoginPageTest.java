@@ -10,7 +10,7 @@ import com.crm.qa.pages.HomePage;
 import com.crm.qa.pages.LoginPage;
 
 public class LoginPageTest extends BaseClass {
-	//Updating LoginTest 
+	//Updating LoginTest practice
 	LoginPage loginpage;
 	HomePage homePage;
 	
