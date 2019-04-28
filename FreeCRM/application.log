@@ -44,3 +44,36 @@
 2019-04-11 18:58:14,138  INFO [main] LoginTest:72 - ****************************** ending test case *****************************************
 2019-04-11 18:58:14,139  INFO [main] LoginTest:73 - ****************************** freemCRMLogoTest *****************************************
 2019-04-11 18:58:15,245  INFO [main] LoginTest:82 - ****************************** Browser is closed *****************************************
+2019-04-28 12:50:33,006  INFO [main] LoginTest:32 - ****************************** Starting test cases execution  *****************************************
+2019-04-28 12:50:39,877  INFO [main] LoginTest:36 - launching chrome broswer
+2019-04-28 12:50:52,667  INFO [main] LoginTest:43 - entering application URL
+2019-04-28 12:50:52,668  WARN [main] LoginTest:44 - Hey this just a warning message
+2019-04-28 12:50:52,669 FATAL [main] LoginTest:45 - hey this is just fatal error message
+2019-04-28 12:50:52,670 DEBUG [main] LoginTest:46 - this is debug message
+2019-04-28 12:50:52,677  INFO [main] LoginTest:52 - ****************************** starting test case *****************************************
+2019-04-28 12:50:52,678  INFO [main] LoginTest:53 - ****************************** freeCrmTitleTest *****************************************
+2019-04-28 12:50:52,702  INFO [main] LoginTest:56 - login page title is--->CRMPRO - CRM software for customer relationship management, sales, and support.
+2019-04-28 12:50:52,703  INFO [main] LoginTest:59 - ****************************** ending test case *****************************************
+2019-04-28 12:50:52,704  INFO [main] LoginTest:60 - ****************************** freeCrmTitleTest *****************************************
+2019-04-28 12:50:53,601  INFO [main] LoginTest:82 - ****************************** Browser is closed *****************************************
+2019-04-28 12:51:43,004  INFO [main] LoginTest:32 - ****************************** Starting test cases execution  *****************************************
+2019-04-28 12:51:47,994  INFO [main] LoginTest:36 - launching chrome broswer
+2019-04-28 12:52:04,557  INFO [main] LoginTest:43 - entering application URL
+2019-04-28 12:52:04,558  WARN [main] LoginTest:44 - Hey this just a warning message
+2019-04-28 12:52:04,563 FATAL [main] LoginTest:45 - hey this is just fatal error message
+2019-04-28 12:52:04,564 DEBUG [main] LoginTest:46 - this is debug message
+2019-04-28 12:52:04,568  INFO [main] LoginTest:66 - ****************************** starting test case *****************************************
+2019-04-28 12:52:04,569  INFO [main] LoginTest:67 - ****************************** freemCRMLogoTest *****************************************
+2019-04-28 12:52:04,692  INFO [main] LoginTest:72 - ****************************** ending test case *****************************************
+2019-04-28 12:52:04,693  INFO [main] LoginTest:73 - ****************************** freemCRMLogoTest *****************************************
+2019-04-28 12:52:05,659  INFO [main] LoginTest:82 - ****************************** Browser is closed *****************************************
+2019-04-28 12:52:32,500 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-28 12:52:32,504 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-28 12:52:32,504 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-28 12:52:32,509 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-28 12:52:32,509 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/VIKAS%20KUMAR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-28 12:52:33,725 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-28 12:52:33,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-28 12:52:33,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-28 12:52:33,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-28 12:52:33,730 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/VIKAS%20KUMAR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
